@@ -1,0 +1,18 @@
+{
+  "name": "@medrupaloscil/neorm",
+  "version": "1.0.0",
+  "description": "A nodeJS orm for using Neo4J",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orm",
+    "neo4j"
+  ],
+  "author": "medrupaloscil",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^4.4.0"
+  }
+}
